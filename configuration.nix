@@ -104,6 +104,7 @@
     description = "max belong";
     extraGroups = [ "networkmanager" "wheel" ];
     packages = with pkgs; [
+	steam
 	spotify
 	chromium
       	discord
